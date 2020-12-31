@@ -8,6 +8,7 @@ div h3{
     font-family: "IRANSansWeb Medium";
 }
 #myphoto{
+    pointer-events: none;
     max-width: 20%;
     max-height: 20%;
    margin: 5% 40% ;
