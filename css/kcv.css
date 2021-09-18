@@ -3,9 +3,11 @@ body{
     background-size: 100% 100%;
     background-repeat: repeat-y;
 }
+div h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 div h3{
-    text-align: right;
-    font-family: "IRANSansWeb Medium";
+    font-family: sans-serif;
 }
 #myphoto{
     pointer-events: none;
@@ -16,17 +18,18 @@ div h3{
    border-radius: 50% 50% 50% 50%;
 }
 div h5{
-    text-align: right;
-    margin-right: 30%;
-    font-family: "IRANSansWeb Medium";
-    font-size: 1vw;
+   text-align: left;
+   font-family: sans-serif;
+   justify-content: left;
+   margin-left: 33%;
+   font-size: medium;
 }
 h5 img{
     width: 1.5vw;
     height:1.4vw;
 }
 #kicons{
-    margin-left:1vw;
+    margin-right:1vw;
 }
 
 .sketchy {
