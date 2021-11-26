@@ -12,7 +12,11 @@ div h2{
 
 div h3{
     font-family: sans-serif;
-    background-color: lightblue;
+    color: darkblue;
+}
+div h3 a{
+    font-family: sans-serif;
+    color: darkblue;
 }
 
 #myphoto{
