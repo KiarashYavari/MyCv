@@ -12,15 +12,12 @@ div h2{
 
 div h3{
     font-family: sans-serif;
-    color: darkblue;
-}
-div h3 a{
-    font-family: sans-serif;
-    color: darkblue;
+    color: rgb(3, 3, 141);
 }
 
-a:visited{
-    color: darkcyan;
+div h3 a{
+    font-family: sans-serif;
+    color: rgb(3, 3, 141);
 }
 
 #myphoto{
@@ -47,8 +44,8 @@ h5 img{
 
 #kicons{
     margin-right:1vw;
-    min-width: 2vw;
-    min-height: 2vw;
+    min-width: 15px;
+    min-height: 15px;
 }
 
 .sketchy {
