@@ -19,6 +19,10 @@ div h3 a{
     color: darkblue;
 }
 
+a:visited{
+    color: darkcyan;
+}
+
 #myphoto{
     pointer-events: none;
     max-width: 20%;
@@ -43,6 +47,8 @@ h5 img{
 
 #kicons{
     margin-right:1vw;
+    min-width: 2vw;
+    min-height: 2vw;
 }
 
 .sketchy {
