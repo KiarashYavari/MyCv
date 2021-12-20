@@ -37,7 +37,7 @@ div h5{
    font-size: medium;
 }
 
-h5 img{
+h4 img{
     width: 1.5vw;
     height:1.4vw;
 }
@@ -46,6 +46,14 @@ h5 img{
     margin-right:1vw;
     min-width:15px;
     min-height:15px;
+}
+
+#contactme{
+    color:black !important;
+    justify-content: center;
+    margin-left: 35vw;
+    margin-right: 5vw;
+    padding: .5rem;
 }
 
 .progress {
