@@ -1,6 +1,6 @@
 body{
     background-image: url("kcvbgr.jpg");
-    background-size: 100% 100%;
+    background-size:cover;
     background-repeat: repeat-y;
     font-family: sans-serif;
     font-weight: bold;
@@ -50,11 +50,10 @@ h4 img{
 
 #contactme{
     color:black !important;
-    justify-content: center;
-    margin-left: 35vw;
-    margin-right: 5vw;
-    padding: .5rem;
+    text-align: center;
+    padding: 0.5vw;
 }
+
 
 .progress {
     display: flex;
