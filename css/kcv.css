@@ -22,11 +22,13 @@ h4 a{
 
 #myphoto{
     pointer-events: none;
-    max-width: 20%;
-    max-height: 20%;
-   margin: 5% 40% ;
-   position: center;
-   border-radius: 50% 50% 50% 50%;
+    max-width: 25rem;
+    max-height: 25rem;
+    margin-top: 2.3rem;
+    margin-left:39%;
+    margin-bottom: 2.3rem;
+    position: relative;
+    border-radius: 50% 50% 50% 50%;
 }
 
 div h5{
@@ -48,10 +50,15 @@ h4 img{
     min-height:25px;
 }
 
-#contactme{
+.contactme{
+    margin-left: 37%;
+    padding: 0.3rem;
+}
+
+.contactme h4{
+    text-align: left !important;
+    text-decoration: none !important;
     color:black !important;
-    text-align: center;
-    padding: 0.5vw;
 }
 
 
