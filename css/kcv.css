@@ -44,7 +44,7 @@ h4 img{
     height:1.4vw;
 }
 
-#kicons{
+.kicons{
     margin-right:1vw;
     min-width:25px;
     min-height:25px;
@@ -61,6 +61,11 @@ h4 img{
     color:black !important;
 }
 
+#Linkedin a{
+    font-family: sans-serif!important;
+    color:black !important;
+}
+
 
 .progress {
     display: flex;
@@ -70,6 +75,14 @@ h4 img{
     background-color: #e9ecef;
     border-radius: .25rem;
 }
+
+@media only screen and (max-width: 600px) {
+    #Email{
+        font-size: 4.7vw;
+    }
+  }
+
+
 
 .sketchy {
      padding: 2vw 4vw;
@@ -93,3 +106,8 @@ h4 img{
          transform: translate3d(-50%, -50%, 0) scale(1.015) rotate(0.5deg);
          border-radius: 1% 1% 2% 4% / 2% 6% 5% 4%;
      }
+
+
+
+
+
